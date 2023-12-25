@@ -14,7 +14,7 @@ JobTracker that relies on email to trace application status and next step.
 1. Clone the repository and install the required dependencies:
 
    ```bash
-   git clone git clone -b Tutorial https://github.com/Mive667/JobTracker.git
+   git clone -b Tutorial https://github.com/Mive667/JobTracker.git
 
    cd JobTracker
    # It is recommended to create a virtual environment for this project before install
